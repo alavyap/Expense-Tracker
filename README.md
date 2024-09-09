@@ -68,6 +68,15 @@ The frontend will run on http://localhost:3000.
 
 Access the App Open your browser and navigate to http://localhost:3000 to use the Expense Tracker locally.
 
-Notes
+## Notes
 Make sure you have Node.js and npm installed on your machine.
 To run the app locally, you need a working MongoDB instance and the correct connection URL added to your .env file.
+
+## Contributing
+Feel free to submit issues or pull requests if you have suggestions or improvements for Expense Tracker.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+For any questions or feedback, please reach out to aalvya.pandey@gamil.com or Visit : https://www.alavyapandey.com/
