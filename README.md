@@ -17,6 +17,9 @@ Express
 MongoDB
 Chakra UI
 
+![ScreenShot](/expenseTracker.png)
+
+
 How to Clone and Run the Project Locally
 Steps to Get Started
 Clone the Repository Open your terminal and run the following command to clone the repository:
