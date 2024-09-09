@@ -22,7 +22,7 @@ Steps to Get Started
 Clone the Repository Open your terminal and run the following command to clone the repository:
 
 
-git clone https://github.com/your-username/expense-tracker.git
+git clone [https://github.com/your-username/expense-tracker.git](https://github.com/alavyap/Expense-Tracker)
 cd expense-tracker
 Install Dependencies Install the necessary dependencies for both the frontend and backend by running the following commands:
 
